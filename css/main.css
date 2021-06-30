@@ -23,14 +23,14 @@ section { display: flex }
 .text-secondary { font-size: 30px; color: #faa541 }
 .text-primary { font-size: 16px; color: #364147 }
 .header-nav { border-bottom: 1px; border-color: #a0a0a0 }
-.brand { size: 170x85; margin-left: -15; margin-right: 60 }
+.brand { size: 170x85px; margin-left: -15; margin-right: 60 }
 .logo { max-width: 100%; height: auto }
-.search-box { size: 330x30; padding: 6px 12px; border: 1px solid #a0a0a0 }
-.search-button { color: #ffffff; background-color: #a0a0a0; size: 100x30; padding: 0 }
+.search-box { size: 330x30px; padding: 6px 12px; border: 1px solid #a0a0a0 }
+.search-button { color: #ffffff; background-color: #a0a0a0; size: 100x30px; padding: 0 }
 .nav-list { padding-left: 0; width: 575px; margin-top: 10px }
 .nav-list li a { font: 16px uppercase 700; word-spacing: 0.2px }
 .profile { margin-left: auto }
 .account { text-align: right; padding: 15px; font: 18px #364147 }
 .account * { font-size: 14px }
-.profile-pic { size: 60x60 }
+.profile-pic { size: 60x60px }
 .profile-pic img { border-radius: 100px; max-width: 100% }
